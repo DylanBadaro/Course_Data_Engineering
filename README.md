@@ -76,7 +76,7 @@ Introducción a programación e ingeniería de datos
 Fuentes de datos y Data Warehousing
 | Curso                                                        | Estado |
 | ------------------------------------------------------------ | ------ |
-| Práctico de SQL                                              | ⏳      |
+| Práctico de SQL                                              | 🔜     |
 | PostgreSQL Aplicado a Ciencia de Datos                       | 🔜     |
 | Base de Datos NoSQL                                          | 🔜     |
 | Introducción a AWS: Fundamentos de Cloud Computing           | 🔜     |

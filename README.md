@@ -10,8 +10,6 @@ Este repositorio contiene el progreso de mi formación en la **Ruta de Ingenier�
 ```
 data-engineering-platzi/
 ├── Introducción a programación e ingeniería de datos/
-│   ├── Fundamentos de Ingeniería de Software/
-│   ├── Fundamentos de Ingeniería de Datos/
 │   ├── Python: Comprehensions, Funciones y Manejo de Errores/
 │   ├── Git y GitHub/
 │   ├── Python: PIP y Entornos Virtuales/

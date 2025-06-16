@@ -52,27 +52,56 @@ data-engineering-platzi/
 
 ## 📚 Cursos y Progreso
 
+Introducción a programación e ingeniería de datos
 | Curso | Estado |
 |-------|--------|
-| Fundamentos de Ingeniería de Software | ✅ |
-| Fundamentos de Ingeniería de Datos | ✅ |
-| Python: Comprehensions, Funciones y Manejo de Errores | ✅ |
-| Git y GitHub | ✅ |
+| Python: Comprehensions, Funciones y Manejo de Errores | ⏳ |
+| Git y GitHub | 🔜 |
 | Python: PIP y Entornos Virtuales | ✅ |
-| Entorno de Trabajo con Jupyter y Anaconda | ✅ |
-| Python para Ciencia de Datos | ✅ |
-| Matemáticas para Data Science: Estadística Descriptiva | ✅ |
-| Análisis Exploratorio de Datos | ⏳ |
-| Configuración Profesional de Entorno | ⏳ |
+| Entorno de Trabajo con Jupyter y Anaconda | 🔜 |
+| Python para Ciencia de Datos | 🔜 |
+| Matemáticas para Data Science: Estadística Descriptiva | 🔜 |
+| Análisis Exploratorio de Datos | 🔜 |
+| Configuración Profesional de Entorno | 🔜 |
 | Manejo de Datos Faltantes: Detección | 🔜 |
 | Manejo de Datos Faltantes: Imputación | 🔜 |
-| Práctico de SQL | ⏳ |
+| Práctico de SQL | 🔜 |
 | PostgreSQL Aplicado | 🔜 |
 | Base de Datos NoSQL | 🔜 |
 | AWS Fundamentos | 🔜 |
 | Airflow, Databricks, Bash, Redshift, Docker | 🔜 |
 
 ---
+
+Fuentes de datos y Data Warehousing
+| Curso                                                        | Estado |
+| ------------------------------------------------------------ | ------ |
+| Práctico de SQL                                              | ⏳      |
+| PostgreSQL Aplicado a Ciencia de Datos                       | 🔜     |
+| Base de Datos NoSQL                                          | 🔜     |
+| Introducción a AWS: Fundamentos de Cloud Computing           | 🔜     |
+| Introducción a AWS: Cómputo, Almacenamiento y Bases de Datos | 🔜     |
+| Introducción a AWS: Redes, Gobernanza y Machine Learning     | 🔜     |
+| Práctico de AWS: Roles y Seguridad con IAM                   | 🔜     |
+| Data Warehousing y Data Lakes                                | 🔜     |
+| Databricks: Arquitectura Delta Lake                          | 🔜     |
+| Fundamentos de Apache Airflow                                | 🔜     |
+| Programación en Bash Shell                                   | 🔜     |
+
+
+---
+
+Computación en la nube
+| Curso                                                | Estado |
+| ---------------------------------------------------- | ------ |
+| Introducción a la Administración de Servidores Linux | 🔜     |
+| Práctico de AWS: Cómputo con EC2                     | 🔜     |
+| Práctico de Storage en AWS                           | 🔜     |
+| Práctico de Bases de Datos en AWS                    | 🔜     |
+| Big Data en AWS                                      | 🔜     |
+| AWS Redshift para Manejo de Big Data                 | 🔜     |
+| Docker: Fundamentos                                  | 🔜     |
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -96,12 +125,6 @@ Cada carpeta representa un curso y contiene:
 - Archivos de configuración (`requirements.txt`, `.env`, etc.)  
 - Apuntes personales en Markdown  
 - Proyectos prácticos y ejercicios
-
----
-
-## 📸 Capturas (opcional)
-
-> Podés incluir aquí imágenes o GIFs de notebooks en ejecución o visualizaciones interesantes de proyectos.
 
 ---
 
